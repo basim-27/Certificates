@@ -14,4 +14,4 @@ Issued by **Saylani IT Training Programme** in collaboration with **NUTECH**.
 
 ---
 
-More certificates will be added as I continue learning and growing. 🚀
+More certificates will be added as I continue learning and growing. 🚀.
