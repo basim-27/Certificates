@@ -4,7 +4,20 @@ A collection of my certificates and achievements from my learning journey in tec
 
 ## Certificates
 
-### 1. HTML/CSS — TestDome
+### 1. Introduction to Artificial Intelligence
+
+Successfully completed the **Introduction to Artificial Intelligence** online course on **Simplilearn SkillUp**.
+
+- **Platform:** Simplilearn SkillUp
+- **Course:** Introduction to Artificial Intelligence
+- **Completion Date:** November 25, 2026
+- **Certificate Code:** 11079073
+
+[View Certificate](./CERT%233.jpg)
+
+---
+
+### 2. HTML/CSS — TestDome
 
 Successfully passed the **HTML/CSS Public Test** on **November 24, 2026**, ranking in the **Top 25%**.
 
@@ -17,7 +30,7 @@ Successfully passed the **HTML/CSS Public Test** on **November 24, 2026**, ranki
 
 ---
 
-### 2. Full Stack Foundations for Teens — Batch 1
+### 3. Full Stack Foundations for Teens — Batch 1
 
 Issued by **Saylani IT Training Programme** in collaboration with **NUTECH**.
 
