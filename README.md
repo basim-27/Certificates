@@ -2,7 +2,7 @@
 
 A record of my completed courses, assessments, and learning achievements in technology.
 
-This repository brings together certificates earned through online learning platforms and skills assessments. Each entry includes the issuing platform, completion details, and a link to the original certificate.
+This repository brings together certificates earned through online learning platforms and skills assessments. Each entry includes the issuing platform, completion details, and a link to the certificate image.
 
 ## Certificates
 
@@ -17,7 +17,7 @@ Successfully completed the **Prompt Engineering Course: Master AI Prompts with H
 - **Issue Date:** November 27, 2026
 - **Credential ID:** `FA-2026-PE-50T81L`
 
-[View Certificate](./CERT#5.jpg)
+[View Certificate](./CERT%235.jpg)
 
 ---
 
@@ -32,7 +32,7 @@ Successfully completed **ChatGPT for Complete Beginners** on **FreeAcademy.ai**.
 - **Issue Date:** November 27, 2026
 - **Credential ID:** `FA-2026-CFCB-00LGQ4`
 
-[View Certificate](./CERT#4.jpg)
+[View Certificate](./CERT%234.jpg)
 
 ---
 
@@ -45,7 +45,7 @@ Successfully completed the **Introduction to Artificial Intelligence** online co
 - **Completion Date:** November 25, 2026
 - **Certificate Code:** `11079073`
 
-[View Certificate](./CERT#3.jpg)
+[View Certificate](./CERT%233.jpg)
 
 ---
 
@@ -58,7 +58,7 @@ Successfully passed the **HTML/CSS Public Test** on **November 24, 2026**, ranki
 - **Result:** Top 25%
 - **Date:** November 24, 2026
 
-[View Certificate](./CERT#2.PNG)
+[View Certificate](./CERT%232.PNG)
 
 ---
 
