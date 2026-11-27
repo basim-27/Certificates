@@ -62,6 +62,19 @@ Successfully passed the **HTML/CSS Public Test** on **November 24, 2026**, ranki
 
 ---
 
+### 5. Full Stack Foundations for Teens — Batch 1
+
+Successfully completed the **Full Stack Foundations for Teens — Batch 1** programme, issued by **Saylani IT Training Programme** in collaboration with **NUTECH**.
+
+- **Issuing Organization:** Saylani IT Training Programme
+- **Collaboration:** NUTECH
+- **Duration:** 3 months
+- **Period:** June 2026 – August 2026
+
+[View Certificate](./CERT-859092.png)
+
+---
+
 ## About This Repository
 
 This collection will grow as I continue learning, improving my technical skills, and earning new certifications and achievements.
